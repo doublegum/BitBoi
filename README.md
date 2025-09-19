@@ -1,2 +1,2 @@
-# BitBoi
-BitBoi assets
+# bitboi
+bitboi assets
